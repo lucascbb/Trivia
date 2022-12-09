@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import PropTypes from 'prop-types';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 import fetchToken from '../services/api';
 import { actionCreator, LOGIN_INICIAL } from '../redux/actions';
-import SettingsBTN from '../components/SettingsBTN';
+// import SettingsBTN from '../components/SettingsBTN';
 import './Login.css';
 import trivialogo from '../imagens/pngwing.com.png';
 
