@@ -10,7 +10,7 @@ import './App.css';
 export default function App() {
   return (
     <Switch>
-      <Route exact path="/trivia/" component={ Login } />
+      <Route exact path="/trivia-react-redux" component={ Login } />
       <Route exact path="/game" component={ Game } />
       <Route exact path="/settings" component={ Settings } />
       <Route exact path="/ranking" component={ Ranking } />
