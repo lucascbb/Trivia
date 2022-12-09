@@ -1,0 +1,227 @@
+@media ( min-width : 320px ) {
+
+  .paiHeader {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .imgHeader {
+    border-radius: 10px;
+    width: 100px;
+  }
+
+  .nameEpontoHeader {
+    align-items: center;
+    background-color: rgba(2, 2, 2, 0.944);
+    border: 2px solid #d9d9da;
+    border-radius: 10px;
+    box-shadow: 6px 8px #d9d9da;
+    display: flex;
+    margin: 24px 0;
+    padding: 18px;
+  }
+
+  .nameHeader {
+    color: rgb(242, 242, 242);
+    font-size: 20px;
+    font-weight: 900;
+    margin: -10px 20px -10px 0;
+  }
+
+  .pontoHeader {
+    color: rgb(242, 242, 242);
+    font-size: 20px;
+    font-weight: 900;
+    margin: -10px 0;
+  }
+}
+
+@media ( min-width : 375px ) {
+
+  .paiHeader {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .imgHeader {
+    border-radius: 10px;
+    width: 100px;
+  }
+
+  .nameEpontoHeader {
+    align-items: center;
+    background-color: rgba(2, 2, 2, 0.944);
+    border: 2px solid #d9d9da;
+    border-radius: 10px;
+    box-shadow: 6px 8px #d9d9da;
+    display: flex;
+    margin: 24px 0;
+    padding: 18px;
+  }
+
+  .nameHeader {
+    color: rgb(242, 242, 242);
+    font-size: 20px;
+    font-weight: 900;
+    margin: -10px 20px -10px 0;
+  }
+
+  .pontoHeader {
+    color: rgb(242, 242, 242);
+    font-size: 20px;
+    font-weight: 900;
+    margin: -10px 0;
+  }
+}
+
+@media ( min-width : 425px ) {
+
+  .paiHeader {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .imgHeader {
+    border-radius: 10px;
+    width: 100px;
+  }
+
+  .nameEpontoHeader {
+    align-items: center;
+    background-color: rgba(2, 2, 2, 0.944);
+    border: 2px solid #d9d9da;
+    border-radius: 10px;
+    box-shadow: 6px 8px #d9d9da;
+    display: flex;
+    margin: 24px 0;
+    padding: 20px;
+  }
+
+  .nameHeader {
+    color: rgb(242, 242, 242);
+    font-size: 22px;
+    font-weight: 900;
+    margin: -10px 20px -10px 0;
+  }
+
+  .pontoHeader {
+    color: rgb(242, 242, 242);
+    font-size: 22px;
+    font-weight: 900;
+    margin: -10px 0;
+  }
+}
+
+@media ( min-width : 768px ) {
+
+  .paiHeader {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .imgHeader {
+    border-radius: 10px;
+    width: 100px;
+  }
+
+  .nameEpontoHeader {
+    align-items: center;
+    background-color: rgba(2, 2, 2, 0.944);
+    border: 2px solid #d9d9da;
+    border-radius: 10px;
+    box-shadow: 6px 8px #d9d9da;
+    display: flex;
+    margin: 24px 0;
+    padding: 22px;
+  }
+
+  .nameHeader {
+    font-size: 24px;
+    font-weight: 900;
+    margin: -10px 20px -10px 0;
+  }
+
+  .pontoHeader {
+    font-size: 24px;
+    font-weight: 900;
+    margin: -10px 0;
+  }
+}
+
+@media ( min-width : 1024px ) {
+
+  .paiHeader {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .imgHeader {
+    border-radius: 10px;
+    width: 100px;
+  }
+
+  .nameEpontoHeader {
+    align-items: center;
+    background-color: rgba(2, 2, 2, 0.944);
+    border: 2px solid #d9d9da;
+    border-radius: 10px;
+    box-shadow: 6px 8px #d9d9da;
+    display: flex;
+    margin: 24px 0;
+    padding: 22px;
+  }
+
+  .nameHeader {
+    font-size: 24px;
+    font-weight: 900;
+    margin: -10px 20px -10px 0;
+  }
+
+  .pontoHeader {
+    font-size: 24px;
+    font-weight: 900;
+    margin: -10px 0;
+  }
+}
+
+@media ( min-width : 1440px ) {
+
+  .paiHeader {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .imgHeader {
+    border-radius: 10px;
+    width: 100px;
+  }
+
+  .nameEpontoHeader {
+    align-items: center;
+    background-color: rgba(2, 2, 2, 0.944);
+    border: 2px solid #d9d9da;
+    border-radius: 10px;
+    box-shadow: 6px 8px #d9d9da;
+    display: flex;
+    margin: 24px 0;
+    padding: 22px;
+  }
+
+  .nameHeader {
+    font-size: 24px;
+    font-weight: 900;
+    margin: -10px 20px -10px 0;
+  }
+
+  .pontoHeader {
+    font-size: 24px;
+    font-weight: 900;
+    margin: -10px 0;
+  }
+}

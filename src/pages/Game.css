@@ -1,0 +1,105 @@
+@media ( min-width : 320px ) {
+
+  .paiGame {
+    align-items: center;
+    backdrop-filter: blur(6px);
+    background: rgba(255, 255, 255, 0.25);
+    background-color: rgba(0, 119, 255, 0.524);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    border-radius: 10px;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    display: flex;
+    justify-content: center;
+  }
+
+  .paiGame2 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .timerGame {
+    background-color: black;
+    border-radius: 5px;
+    color: rgb(250, 250, 250);
+    font-size: 20px;
+    font-weight: 900;
+    padding: 5px;
+  }
+
+  .categoryGame {
+    font-size: 22px;
+    font-weight: 900;
+  }
+
+  .questionGame {
+    font-size: 18px;
+    padding: 0 15px;
+    text-align: center;
+  }
+
+  .answerGame {
+    align-items: center;
+    background-color: #0606286e;
+    border: 2px solid rgb(252, 252, 252);
+    border-radius: 10px;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 20px;
+    font-weight: 900;
+    justify-content: center;
+    margin: 10px 0;
+    padding: 10px;
+    text-align: center;
+  }
+
+  .wrong-answer, .correct-answer {
+    background: linear-gradient(to right, #1765bf, #3375e0);
+    background-color: #1919ca;
+    border: 2px solid rgb(252, 252, 252);
+    border-radius: 10px;
+    color: white;
+    font-size: 16px;
+    font-weight: 900;
+    justify-content: center;
+    margin: 10px 0;
+    padding: 10px;
+    width: 280px;
+  }
+
+  .correct-answer:disabled, .wrong-answer:disabled {
+    background: rgba(34, 34, 34, 0.905);
+    color: rgb(104, 104, 104);
+  }
+
+  .nextGame {
+    background: linear-gradient(to right, #1a68c2, #3375e0);
+    background-color: #1919ca;
+    border: 2px solid rgb(252, 252, 252);
+    border-radius: 10px;
+    color: white;
+    font-size: 18px;
+    font-weight: 900;
+    margin: 10px 0 15px;
+    padding: 10px 15px;
+    width: 300px;
+  }
+
+}
+
+@media ( min-width : 375px ) {
+}
+
+@media ( min-width : 425px ) {
+}
+
+@media ( min-width : 768px ) {
+}
+
+@media ( min-width : 1024px ) {
+}
+
+@media ( min-width : 1440px ) {
+
+}

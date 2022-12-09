@@ -1,0 +1,257 @@
+@media ( min-width : 320px ) {
+
+  .paiRanking {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .titleRanking {
+    background-color: #130581;
+    color: white;
+    margin-top: 0;
+    padding: 15px 0 10px;
+    text-align: center;
+  }
+
+  .rankings {
+    align-items: center;
+    background-color: aliceblue;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    height: 180px;
+    justify-content: center;
+    margin: auto;
+    margin-top: 10px;
+    padding: 10px;
+    width: 180px;
+  }
+
+  .playerEponto {
+    text-align: center;
+  }
+
+  .imgRanking {
+    border-radius: 5px;
+  }
+
+  .plye {
+    font-size: 18px;
+    font-weight: 900;
+  }
+}
+
+@media ( min-width : 375px ) {
+
+  .paiRanking {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .titleRanking {
+    background-color: #130581;
+    color: white;
+    margin-top: 0;
+    padding: 15px 0 10px;
+    text-align: center;
+  }
+
+  .rankings {
+    align-items: center;
+    background-color: aliceblue;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    height: 180px;
+    justify-content: center;
+    margin: auto;
+    margin-top: 10px;
+    padding: 10px;
+    width: 180px;
+  }
+
+  .playerEponto {
+    text-align: center;
+  }
+
+  .imgRanking {
+    border-radius: 5px;
+  }
+
+  .plye {
+    font-size: 18px;
+    font-weight: 900;
+  }
+}
+
+@media ( min-width : 425px ) {
+
+  .paiRanking {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .titleRanking {
+    background-color: #130581;
+    color: white;
+    margin-top: 0;
+    padding: 15px 0 10px;
+    text-align: center;
+  }
+
+  .rankings {
+    align-items: center;
+    background-color: aliceblue;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    height: 180px;
+    justify-content: center;
+    margin: auto;
+    margin-top: 10px;
+    padding: 10px;
+    width: 180px;
+  }
+
+  .playerEponto {
+    text-align: center;
+  }
+
+  .imgRanking {
+    border-radius: 5px;
+  }
+
+  .plye {
+    font-size: 18px;
+    font-weight: 900;
+  }
+}
+
+@media ( min-width : 768px ) {
+
+  .paiRanking {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .titleRanking {
+    background-color: #130581;
+    color: white;
+    margin-top: 0;
+    padding: 15px 0 10px;
+    text-align: center;
+  }
+
+  .rankings {
+    align-items: center;
+    background-color: aliceblue;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    height: 180px;
+    justify-content: center;
+    margin: auto;
+    margin-top: 10px;
+    padding: 10px;
+    width: 180px;
+  }
+
+  .playerEponto {
+    text-align: center;
+  }
+
+  .imgRanking {
+    border-radius: 5px;
+  }
+
+  .plye {
+    font-size: 18px;
+    font-weight: 900;
+  }
+}
+
+@media ( min-width : 1024px ) {
+
+  .paiRanking {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .titleRanking {
+    background-color: #130581;
+    color: white;
+    margin-top: 0;
+    padding: 15px 0 10px;
+    text-align: center;
+  }
+
+  .rankings {
+    align-items: center;
+    background-color: aliceblue;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    height: 180px;
+    justify-content: center;
+    margin: auto;
+    margin-top: 10px;
+    padding: 10px;
+    width: 180px;
+  }
+
+  .playerEponto {
+    text-align: center;
+  }
+
+  .imgRanking {
+    border-radius: 5px;
+  }
+
+  .plye {
+    font-size: 18px;
+    font-weight: 900;
+  }
+}
+
+@media ( min-width : 1440px ) {
+
+  .paiRanking {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .titleRanking {
+    background-color: #130581;
+    color: white;
+    margin-top: 0;
+    padding: 15px 0 10px;
+    text-align: center;
+  }
+
+  .rankings {
+    align-items: center;
+    background-color: aliceblue;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    height: 180px;
+    justify-content: center;
+    margin: auto;
+    margin-top: 10px;
+    padding: 10px;
+    width: 180px;
+  }
+
+  .playerEponto {
+    text-align: center;
+  }
+
+  .imgRanking {
+    border-radius: 5px;
+  }
+
+  .plye {
+    font-size: 18px;
+    font-weight: 900;
+  }
+}
