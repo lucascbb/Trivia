@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.aa9919e0.css",
-    "main.js": "/static/js/main.f7bc6319.js",
-    "static/media/pngwing.com.png": "/static/media/pngwing.com.f5d907678f44ab1d6f6b.png",
-    "index.html": "/index.html",
-    "main.aa9919e0.css.map": "/static/css/main.aa9919e0.css.map",
-    "main.f7bc6319.js.map": "/static/js/main.f7bc6319.js.map"
+    "main.css": "/trivia/static/css/main.aa9919e0.css",
+    "main.js": "/trivia/static/js/main.89bdad72.js",
+    "static/media/pngwing.com.png": "/trivia/static/media/pngwing.com.f5d907678f44ab1d6f6b.png",
+    "index.html": "/trivia/index.html",
+    "main.aa9919e0.css.map": "/trivia/static/css/main.aa9919e0.css.map",
+    "main.89bdad72.js.map": "/trivia/static/js/main.89bdad72.js.map"
   },
   "entrypoints": [
     "static/css/main.aa9919e0.css",
-    "static/js/main.f7bc6319.js"
+    "static/js/main.89bdad72.js"
   ]
 }
