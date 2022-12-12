@@ -27,7 +27,7 @@ Desenvolvi um jogo de perguntas e respostas baseado no jogo Trivia, parecido com
 
 <details>
   <summary><strong>:memo: Habilidades</strong></summary><br />
-Nesse projeto, você será capaz de:
+Nesse projeto, fui capaz de:
 
   - Criar um store Redux em aplicações React
 
